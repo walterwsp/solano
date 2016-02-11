@@ -63,7 +63,7 @@
         <url>http://hannonhill.com</url>
     </organization>
     <scm>
-        <connection>scm:git:git://github.com/hannonhill/Webservices-Java-Sample-Project.git</connection>
-        <url>https://github.com/hannonhill/Webservices-Java-Sample-Project</url>
+        <connection>scm:git:git://github.com/walterwsp/solano.git</connection>
+        <url>https://https://github.com/walterwsp/solano</url>
     </scm>
 </project>
